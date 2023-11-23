@@ -10,4 +10,5 @@ int main()
         ;
 
     printf("Character count in input is %.0f\n", nc);
+    return 0;
 }

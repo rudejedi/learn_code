@@ -12,4 +12,5 @@ int main()
         putchar(c);
         c = getchar();
     }
+    return 0;
 }

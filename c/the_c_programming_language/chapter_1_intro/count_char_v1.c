@@ -12,4 +12,5 @@ int main()
         ++nc;
     }
     printf("Character count in input is %ld\n", nc);
+    return 0;
 }

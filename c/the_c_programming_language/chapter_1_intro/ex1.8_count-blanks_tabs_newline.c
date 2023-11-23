@@ -24,4 +24,5 @@ int main()
     printf("No. of blanks: %d\n", nb);
     printf("No. of tabs: %d\n", nt);
     printf("No. of new lines: %d\n", nl);
+    return 0;
 }

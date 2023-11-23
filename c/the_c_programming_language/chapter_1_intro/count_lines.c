@@ -15,4 +15,5 @@ int main()
         }
     }
     printf("Line count in input is %ld\n", nl);
+    return 0;
 }
