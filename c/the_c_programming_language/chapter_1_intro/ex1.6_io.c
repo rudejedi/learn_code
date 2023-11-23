@@ -5,8 +5,7 @@
 int main()
 {
     int c;
-    while (c = getchar() != EOF)
-    {
-        putchar(c);
-    }
+    c = (getchar() != EOF);
+    printf("The expression 'getchar ()! = EOF' is:%d\n'", c);
+    /*the comparison != results in a boolean expression, where the result is 1 (true) if the condition is satisfied and 0 (false) otherwise.*/
 }
